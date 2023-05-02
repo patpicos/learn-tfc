@@ -1,1 +1,1 @@
-suffix = "ckli-tfvars"
+suffix = "ckli-tfvars2commit"
